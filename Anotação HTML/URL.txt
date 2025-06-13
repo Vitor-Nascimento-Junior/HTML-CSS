@@ -1,0 +1,11 @@
+	Quando criamos um site em HTML5 CSS3 ele fica disponivel para uso publico só depois que criarmos uma URL (Uniform Resource Locator) 'A URL é um termo técnico que foi traduzido para a língua portuguesa como (localizador uniforme de recursos). Um URL se refere ao endereço de rede no qual se encontra algum recurso informático'. Pois quando criamos um site nos o hospetamos em nosso computador, mas se eu quiser que um amigo meu possa acessa-lo e ve-lo funcionando eu tenho que criar uma URL (hospedar meu site em um servidor). 
+	Pode parecer que criar uma URL é bem dificil mas na verdade acaba sendo até bem simples. por exemplo, o que seria uma URL? A URL seria o endereço do seu site, quando acessamos um site, nos sabemos que aquele site na verdade esta num endereço IP formados por numeros, e a URL vai servir para que o DNS possa localizar com mais facilidade que site você quer acessar e qual o endereço IP dele. A URL formado pelas seguintes caracteristicas, (SUB-DOMINIO, DOMINIO, TLD, CAMINHO).
+	Já os TLDs, são aquelas duas ou três letras no final de uma URL por exemplo os .Com - .Net - .Story - .Gov - etc.. mas tambem temos diferentes tipos de TLDs que nem esses que acabei de citar eles são os TLDs Genericos, mas tambem temos os CCTLDs (country code top-level domain), que serve para diferenciar o pais daquele site como: .br - .us - .uk - .tv .
+
+	
+
+	DOMINIO: Nome unico
+		 Pago anualmente
+		 Varios TLDs
+	HOSPETAGEM: Espaços para armazenar                          arquivos
+		    Espaço, Memoria, Recursos

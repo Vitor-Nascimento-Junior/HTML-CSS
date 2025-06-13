@@ -1,0 +1,12 @@
+  A HTML (HyperText¹ Markup Language) então a HTML pode até se dizer que é um tipo de linguagem porem não se encaixa como linguagem de programação pois ela não envolve estruturas especializadas que dependem do uso de variáveis simples e compostas, condições, laços e objetos. Então a HTML como seu proprio nome diz ela é uma linguagem de MARCAÇÃO de hipertexto, mais chamado de tags. Pois nunca dica "Eu programo em HTML e CSS" porque ambos Não são linguagem de programação.
+  HTML é mais focado em conteúdo como Textos, Imagens, Videos, Tabelas etc.. Por exemplo você pega um site de noticias como o G1 la você tem varias imagem e noticias que ocorrem no dia a dia, o HTML vai ser uma das varias materias demonstradas no site. Assim você clicando na imagem ou texto da determinada materia vai de levar para a noticia completa com detalhes.
+
+  (¹) São Hiper Texto, onde você clica num texto com interação e ele te leva para uma nova janela, site ou anuncio.
+
+Já as CSS (Cascading Style Sheets) são muito mais focadas em design da pagina por exemplo: core, sombras, tamanhos e posicionamento , pois mesmo um site sendo bem informativo ele tambem precisa ser bem apresentado por isso seu nome que é Estilo de paginas em cascadas seria um meio de modificar a imagem fonte de cada pagina.
+
+O JavaScript ele sim é uma linguagem de programação pois para que um site seja bem feito mesmo é sempre bom ter uma interação legal nele ai entra o (JS) que seria a interação, por exemplo uma grande parte dos sites tem aquelas tres barras ou tres pontinhos que geralmente é a ferramenta geral do site que te mostra varios atalhos de acesso que aquele site tem. Então; Menus, Animações, Popups e Validações são tudo JS.
+
+HTML: Conteúdo
+CSS: Design
+JavaScript: Interatividade

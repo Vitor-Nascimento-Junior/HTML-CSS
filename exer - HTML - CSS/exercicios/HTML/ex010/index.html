@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>links</title>
+</head>
+<body>
+    <h1>Criando links externos</h1>
+    <p>Aqui vamos aprender um pouco sobre links internos e externos, mas primeiramente vamos para o externo</p>
+    <h2>Links externos / abrindo outra página</h2>
+    <p>Um grande exemplo de link externo são esses.
+        <ul>
+            <li><a href="https://www.instagram.com/viih._.sns/?next=%2F" target="_blank" rel="external">acesse meu instagram</a></li>
+            <li><a href="https://www.youtube.com/@MHRAPOFICIAL" target="_blank" rel="external">veja uns dos meus canais favoritos de rap geek</a></li>
+        </ul>
+        Como podemos ver temos dois links, um que vai para o meu perfil do instagram e outro que vai para um dos meus canais favoritos de rap geek. Mas deu para notar que assim que clicamos neles eles criam uma nova página, mas isso só é possivel por conta desses carinhas aqui <strong>
+            <mark style="background-color: aquamarine;"><code>target="_blank" e rel="external"</code></mark>
+        </strong>
+    </p>
+    <h2>Links externos / abrindo na mesma página</h2>
+    <p>Bom esse exemplo é o mesmo vamos usar a tag A para fazer a <a href="https://www.instagram.com/viih._.sns/?next=%2F">ancoragem de um site para outro</a>. Nesse caso usei meu perfil do instagram denovo como exemplo. Mas como é essa tag inteira? <br> <code>&lt;a&gt; href="URL"&lt;/a&gt;</code> <br> Agora se quiser fazer o site abrir em outra página sem sobrepor seu site é só usar essas tags <code>&lt;a&gt; href="URL" target="" rel=""&lt;/a&gt;</code></p>
+    <p>Essas tag é interessante usar também dessa forma <a href="https://www.youtube.com/@MHRAPOFICIAL" target="_blank" rel="external">https://www.youtube.com/@MHRAPOFICIAL</a> usar o próprio link assim ficando até mais aparente.</p>
+    <h3>Uma curiosidade sobre links</h3>
+    <p><ul>
+        <li>Nos sabemos que com a tag A podemos ancorar links um atras do outro certo. Mas depois que vimos como o google funciona, temos que fazer um esforço para que ele possa localizar nossos sites e recomende-o para terceiros. Assim vamos focar nos REL</li>
+    </ul>
+<dl><ul type="circle">
+    
+        <dt><li>REL:</li></dt>
+        <dd>Os rel são relações, são praticamente uma explicação do que seria exatamente aquela informação. por exemplo, quando nos falamos que <code>&lt;a&gt; href="URL" target="_blank" rel="external"&lt;/a&gt; </code>nesse caso a tag está referindo que esse link é external (externo). <br>Mas tambem temos difersos exemplo, como pode ser um link que eu não quero que ele seja seguido, não te tanta importancia, como esse: <a href="https://www.hostnet.com.br" target="_blank" rel="nofollow">acesse a Hostnet</a> Nesse caso eu fiz isso: <code>&lt;a&gt; href="https://www.hostnet.com.br" target="_blank" rel="nofollow&lt;/a&gt;</code></dd>
+        <dt><li>TARGET:</li></dt>
+        <dd>Já o target vai definir se vai mudar ou permanecer na mesma janela, como por exemplo <code>target="_blank"</code> essa tag vai mandar você para o link em outra aba. Agora se quiser que ele sobreponha seu site é só não colocar nada ou usar a tag <code>target="_self"</code></dd>
+</ul>
+</dl></p>
+    <h2>links internos</h2>
+    <p>Aqui vamos aprender  sobre links internos, mas como seria isso? Como os links externos, que buscan ir para outros sites por meio de ancoras, os links internos é para acessar uma outra parte do seu site, como por exemplo uma proxima pagina. <br> 
+    Vamos ver na prática.</p>
+    <p>Aqui é a nossa pagina um, mas tambem podemos acessar nossa <a href="pag002.html" rel="next">segunda pagina</a></p>
+    <h3>Mais sobre links internos</h3>
+    <p>Aqui nos links internos quero demonstrar uma coisa. <a href="pag003.html">Acesse esse link</a> assim que você acessou o link ele deu erro, isso é porque o google não conseguiu localiza-lo por conta que essa outra pagina está numa pasta, para que ele seja achado temos que fazer isso: <code>&lt;a hfer="internos/pag003.html"&gt; </code>acessar a página três<code>&lt;/a&gt;</code> <a href="internos/pag003.html">Acesse a página três</a></p>
+    <h2><a href="internos/pag004.html" rel="next">links de Download</a></h2>
+</body>
+</html>

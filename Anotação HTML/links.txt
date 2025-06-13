@@ -1,0 +1,10 @@
+LINKS
+
+Bom provavelmente já vimos links e todos os lugares que acessamos a internet, mas você sabe realmente a utilidade deles?
+Eu pergunto e já respondo, eles são muito importantes para que o google possa te encontrar. por exemplo, provavelmente você achou que tinha que cadastrar seu site no google, como vimos em aulas anteriores, usando dominio e hospetagem, mas na verdade "sim você precisa deles" mas não para cadastrar seu site no google mas sim para que ele possa te localizar com mais facilidade
+
+Como o Google funciona?
+
+Simples, o google foi o primeiro buscador de sites do mundo e junto dele tem tambem o youtube, e eles funcionam da seguinte forma. Você faz uma pesquisa tal: "receita de bolo". o google vai procurar palavras chaves que tenha a informação receita de bolo, vai procurar links de sites dentro de outro sites que te leva para uma receita de bolo, vai procurar videos mostrando como fazer, imagens relacionadas. Então você percebe como o google faz um trabalho super completo só para achar uma coisa. 
+
+Com isso você nota com mais clareza como links realmente são importantes.

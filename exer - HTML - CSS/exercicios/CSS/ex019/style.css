@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+    background-color: #7fffd4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px;
+}
+
+h1{
+    color: #F0927A;
+}
+
+#principal{
+    text-align: center;
+    background-color: #75AE9B;
+    color: white;
+    border-radius: 15px;
+    box-shadow: black 1px 1px 6px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.basico{
+    color: green;
+}
+
+.intermediario{
+    color: rgb(177, 177, 0);
+    font-weight: bold;
+}
+
+.avancado{
+    color: rgb(158, 0, 0);
+    font-weight: bold;
+}
+h2{
+    color: #997167;
+    font-weight: bold;
+}

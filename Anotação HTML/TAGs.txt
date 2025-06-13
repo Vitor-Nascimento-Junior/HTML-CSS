@@ -1,0 +1,53 @@
+todas as tags de Html (básico).
+
+  h1 = O <h1>documento</h1> (exemplo dessa tag é que ela é usada normalmente no inicio de um site *TITULO* ) junto da tag h1, nos temos uma hierarquia de titulos, como:h1, h2, h3, h4, h5 e h6.
+
+  hr = O hr é usado como separador de titulo com conteúdo com uma linha *horizontal* 
+
+  p = O <p>conteúdo</p> com essa tag você vai usar para por seus anuncios, conteúdos e noticias.
+
+  !DOCTYPE = Isso significa em que formado seu site vai funcionar
+
+  UTF-8 = agora essa tag vc vai liberar as virculas e acentuaçôes, pois como os codigos geralmente é feito em ingles. e na lingua inglesa não á acentuações.
+
+  html lang = isso é usado para definir o idioma do seu site ( <html lang='pt-br'> )
+
+  head = essa é a cabeça do seu site o que vai dar funcionalidade no seu site. ela tem fechamento ( <head> </head> )
+
+  body = aqui é o corpo do seu site, onde seu conteúdos vão está.
+
+  br = essa tag serve para fazer quebra de paragrafo.
+
+
+  *Simbolos:
+
+  &lt; e &gt; = São tags para fazer o sinal de <>.
+
+  &nbsp; = Espaço vazio
+  &reg; = Marca registrada
+  &copy; = Copyright
+  &trade; = Trade Mark
+  &euro; = Euro
+  &pound; = Libra (Pound)
+  &yen; = Yen
+  &cent; = Cent
+  &empty; = Vazio
+  &sum; = Soma
+  &delta; = Delta
+  &larr; = Seta Esquerda
+  &uarr; = Seta Acima
+  &rarr; = Seta direita
+  &darr; = Seta baixo
+
+&#x essa tag é para por emojis em seus sites por exemplo "&#x CODIGO DO EMOJI"
+
+img = É a tag utilizada para colocar imagens em seus sites (<img src="" alt="">) o resto dessa tag o "scr é para colocar a imagem" já o "alt seria a explicação do que é aquela imagem"
+
+Essa tag serve para impor icones em nossos sites, a tag link:favicon
+
+audio = a tag audio serve literalmente para impor audio em nossos sites.
+
+<audio src="arquivo.mp3" controls loop></audio>
+
+Em HTML temos um Substituto para que possamos fazer varias quebras de linha sem usar o br. Basta usar a tag <pre> text </pre>
+

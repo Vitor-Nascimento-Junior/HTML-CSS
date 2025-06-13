@@ -1,0 +1,23 @@
+Formatação de texto 
+
+* A formatação de texto é uma forma de demarcar um trecho, como um marca texto; Por exemplo deixar a palavra em negrito, italico e até mesmo marcada com marca texto.
+
+* Para isso usamos tags especificas como a tag STRONG para deixar em negrito aquele determinado trecho e a tag EM para deixar aquele trecho em ênfase.
+
+* lista de tags de marcação:
+
+strong = Negrito
+
+em = Ênfase
+
+mark = marcação
+
+small = diminuir
+
+abbr = descrição
+
+
+
+* Lembrando tags MORREM, então ficar sempre atendo com posiveis tag prestes a ficarem invalidas. 
+
+* Tambem na HTML temos o termo SEMÂNTICA, mas o que significa isso a final? Semântica é o significado dos vocábulos, por oposição à sua forma. Resumindo algo que tenha SIGNIFICADO.

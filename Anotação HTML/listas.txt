@@ -1,0 +1,27 @@
+listas em HTML
+
+Simples. Você faz tudo na sua vida sem planejamento ou uma lista de haveres. Não, então por que na criação de sites seria diferente saca só nisso.
+
+Para que uma lista seja feita em HMTL você só precisa usar a tag UL para listas "Não Ordenadas" e OL para "listas Ordenadas", dessa forma depois só usar a tag LI para ambas para iniciar a seguencia de itens na lista. Mas tem uma outra coisa, tem como fazer uma lista dentro de outra lista como dessa forma:
+
+ 1.text
+ 2.text
+  a.text.2,1
+  b.text.2,2
+
+Em HTML funciona de outra forma, para que isso ocorra eu tenho que fazer isso aqui:
+
+<ol>
+        <li>Acordar</li>
+        <li>Estudar</li>
+        <li>trabalhar</li>
+        <ol type="a">
+            <li>trocar de rouba</li>
+            <li>tomar cafe</li>
+            <li>colocar etiqueta</li>
+            <li>abastecer a área</li>
+        </ol>
+        <li>voltar do trabalho</li>
+        <li>Estudar</li>
+        <li>Dormir</li>
+    </ol>

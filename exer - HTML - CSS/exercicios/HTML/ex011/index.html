@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Midias e downloads</title>
+</head>
+<body>
+    <h1>Imagens dinâmicas</h1>
+    <p>Aqui vamos aprender um pouco sobre imagens dinâmicas, nos criamos algumas imagens no <q><strong>GIMP</strong></q> e vamos usar aqui como exemplo.</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1000px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="foto.png">
+    </picture>
+    <p>Pelo que podemos ver aqui, nos conseguimos almentar e diminuir o tamanho da imagem só de, almentar e diminuir o tamanho do site por isso <q>imagem dinâmica</q>.</p>
+    <p>Tudo isso usando a seguinte tag
+<pre>
+    <code>&lt;picture&gt;
+        &lt;source media="(max-width: 750px)" type="image/png"&gt;
+        &lt;source media="(max-width: 1000px)" alt="image/png"&gt;
+        &lt;img src="imagem.png" alt="foto.png"&gt;
+    &lt;/picture&gt;</code>
+</pre></p>
+<h2>Imagem dinâmica invertida</h2>
+<p>Agora vamos ver mais um pouco sobre imagem dinamicas mas em sua ordem oposta e ver no que dá.</p>
+<picture>
+    <source media="(max-width: 750px)" srcset="imagens/foto-g.png" type="image/png">
+    <source media="(max-width: 1000px)" srcset="imagens/foto-m.png" type="image/png">
+    <img src="imagens/foto-p.png" alt="foto.png">
+</picture>
+<p>Isso posso fazer com qualquer imagem por exemplo:</p>
+<picture>
+    <source media="(max-width: 750px)" srcset="imagens/dazai-perfil-350.jpeg" type="image/jpeg">
+    <source media="(max-width: 1000px)" srcset="imagens/dazai-perfil-650.jpeg" type="image/jpeg">
+    <img src="imagens/dazai-perfil.jpeg" alt="foto.jpg">
+</picture>
+<br>
+<a href="pag002.html">PAG.002</a>
+</body>
+</html>

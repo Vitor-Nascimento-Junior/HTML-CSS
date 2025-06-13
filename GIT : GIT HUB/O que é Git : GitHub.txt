@@ -1,0 +1,32 @@
+Repositório local / Repositório Remoto
+
+* Repositório Local
+Como já entendemos o Git é um repositório local e o GitHub o remoto.
+
+Usado para guardar verões 
+
+Onde os arquivos são salvos dentro do próprio computador.
+
+Normalmente quando vamos guardar arquivos dr sites, sistemas e aplicativos no computador. Não pensamos em fazer um tipo de backup ou pelo menos salvá-los em mais de um lugar ou procurar um meio de mantê-lo salvo. Pois fazer isso pode ser meio trabalhoso, um dos métodos de salvar organizadamente seus arquivos com o gerenciador de versões
+
+Ele é um software, que te ajudar a salvar antigas versões de seus projetos. Então se for você quiser alterar um projeto anterior, você pode sem ter muita preocupação de perder suas versões antigas do projeto. Pois esse software, ele faz tudo automaticamente.
+
+Um dos gerenciadores de versões grátis a ser usado é:
+
+* Git
+
+Porém vamos criar outra situação. Se por acaso o seu computador der problema e perder todos os arquivos. O que fazer, o git vai manter seus arquivos salvos?
+
+Não 
+
+Pois ele é um Repositório local.
+
+* Repositório Remoto
+  Usado para trabalhar em equipe
+  Usado para backup na nuvem
+
+Já o GitHub já é um repositório Remoto, assim você deixando seus arquivos e programas salvos na nuvem. Não tento chances de perder seus arquivos caso sua maquina tenha a dar algum problema, até mesmo se você quiser compartilhar seus projetos com um amigo. O github ajuda muito nesse caso
+
+Pois tanto o Git e o GitHub, um depende do outro. Não necessariamente, mas é bom ter os dois.
+
+Porque o git, vai te ajudar a manter versões de projetos no seu computador(repositório Local) enquanto o GitHub vai fazer um backup na nuvem, assim te ajudando a mantê-los salvos e seguros (repositório remoto) tudo isso gratuitamente.
