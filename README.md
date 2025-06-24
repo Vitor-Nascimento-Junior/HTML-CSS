@@ -14,7 +14,7 @@ Estou aprendendo a criar sites e gerenciar meu repositório
         <li><a href="https://vitor-aquino-nascimento.github.io/HTML-CSS/HTML-CSS/desafios/1.6/">desafio 1.6</a></li>
         <li><a href="https://vitor-aquino-nascimento.github.io/HTML-CSS/HTML-CSS/desafios/1.7/">desafio 1.7</a></li>
         <li><a href="https://vitor-aquino-nascimento.github.io/HTML-CSS/HTML-CSS/desafios/1.8/">desafio 1.8</a></li>
-        <li><a href="https://vitor-aquino-nascimento.github.io/HTML-CSS/HTML-CSS/desafios/2.0/">desafio 1.9</a></li>
+        <li><a href="https://vitor-aquino-nascimento.github.io/HTML-CSS/HTML-CSS/desafios/1.9/">desafio 1.9</a></li>
     </ul>
 
     Clique em qualquer link a cima e veja minhas atividades.
