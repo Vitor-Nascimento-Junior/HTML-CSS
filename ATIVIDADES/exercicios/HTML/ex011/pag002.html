@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Como colocar audios</title>
+</head>
+<body>
+    <h1>Reproduzir Audios</h1>
+<p>aqui vamos aprender sobre colocar audios em nossos sites, veja que facil:
+    <pre>
+        <code>&lt;aduio src="arquivo.mp3" <strong>controls autoplay loop</strong>&gt;&lt;/audio&gt;</code>
+    </pre>
+    <audio src="midia/The-Fallout.mp3.mp3" controls loop></audio>
+    Mas caso o arquivo não rode, isso pode ser porque o navegador não suporta mp3, então você pode usar outros tipos de midias (MP3, WAV e OGG) lembrando <mark>o WAV ele é um arquivo pesado!</mark>
+</p>
+<h2>Tags para diferentes tipos de midia</h2>
+<pre>
+    <code>
+        &lt;audio preload="auto" autoplay controls loop&gt;
+        &lt; source src="arquivo.mp3"&gt;&lt;/audio&gt;</code>
+</pre>
+</body>
+</html>

@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body{
+    margin: 5px;
+    padding: 0px;
+    background-color: rgba(0, 0, 0, 0.795);
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 0px;
+}
+
+div#header{
+    background-color: darkgrey;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px rgba(255, 0, 0, 0.664);
+    border: solid, 2px, red;
+}
+
+/* 
+    Temos dois tipos de forma de fazer uma borda personalizada.
+    
+    Dessa forma:
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+
+    Ou dessa forma:
+    border solid, 2px, red;
+*/
+
+div{
+    background-color: darkcyan;
+    margin-top: 30px;
+}
+
+span{
+    background-color: cyan;
+    font-weight: bold;
+    padding: 1px;
+}

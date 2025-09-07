@@ -1,0 +1,17 @@
+body{
+    background: black url(../imagens/wallpaper002.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+main{
+    background-color: white;
+    max-width: 400px;
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 30px;
+    margin: 10px auto;
+}
+
+h1{
+    text-align: center;
+}

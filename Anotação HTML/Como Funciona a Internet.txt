@@ -1,0 +1,19 @@
+Como funciona a internet?
+
+A internet em si ela é basiada em radio frequencia, como um radio literalmente. como ja sabemos e já foi anotado, para que uma 'foto' por exemplo chegue de um celular para o outro o tcp do seu telefone ou computador tem que 'picotar' a imagem em varios pacotes de dados formados por Uns e Zeros e enviados em rodas em caminhos diferentes, literalmente como a rede achar melhor e mais rapido, e assim o tcp receptor vai reconstruir a imagem tudo isso muito rapido.
+
+Mas assim, como é feito essa deslocação pelo mundo todo? simples temos duas formas mais faladas de como é a transação de dados, o primeiro seria via a cabos e outra via satélites, a rede via cabo seria nada mais q varios 'raios de luz' que travecam por ondas de radio frequencia do seu celular até o roteador/mondei, e esse mondei vai literalmente moldar a frequencia recebida do celular (sinal digital) para um sinal analogico e assim fazendo uma tragetoria pelos cabos de fribaoptica passando pelas instrustrias de redes e finalmente chegando ao aparelho desejado. mas e quando eu quero me comunicar com alguem de fora? e por que é tão demorado a comunicação? Nesse caso a trasferencia é mais longa tanto por satelite ou pelos cabos submersos sobre a agua, sim cabos de rede que cruzam o oceano até o outro continente desejado.
+
+Qual á diferença entre bits e bytes? 
+bom para que possamos entender melhor qual a diferença entre eles vamos se aprofundar mais no assunto da linguagem zeros e uns. quando falavamos de ondas de 'radio' representado por zeros e uns, essas ondas são como ondas quadradas, assim ficando sem sinal 0 com sinal 1, e esses dois numeros tem um nome, chamado de digitos binarios (binary digit) porem se simplificarmos esse nome fica 'bit', mas já que um aparelho que só entendi isso e sendo muito limitado ai se vem um conjunto de numeros um conjunto de bits como 8 bits mas quando se tem um conjundo o nome muda para byte que seria um conjundo de 8 bits. E ja como nos usamos kilo gramas ou uma tonelada para medir peso bruto das coisas, na computação tambem usamos uma media de 'peso' assim sendo o 8 bits se tornando bytes e já 1024 bytes sendo igual a 1 KB (KILO BYTES) 
+
+exemplo:
+1024 Bytes= 1KB
+1024KB= 1MB
+1024MB= 1GB
+1024GB= 1TB
+1024TB= 1PB
+ 
+Mas lembrando que MB não é igual a Mb. Mas porque? simples o MB (MEGABYTES) serve para (Armazenamento) já o Mb (MEGABITS) serve para (redes).
+
+DNS(Domain Name System): O DNS serve para encontrar o codigo IP de um servidor, por exemplo: Você quer entrar no Instagram primeira mente seu computador vai mandar para o DNS para que possa disponibilizar o codigo que você precisa para ir direto ao site do Instagram.

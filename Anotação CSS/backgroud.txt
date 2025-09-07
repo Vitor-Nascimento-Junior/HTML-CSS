@@ -1,0 +1,21 @@
+Background-color = mudar cor de fundo
+(Sólida ou até mesmo transparente)
+
+Background-image = para impor imagens ou fundos degrades
+
+(Para fazer o fundo degrade precisa do linear-gradeuns)
+
+Background-size = modifica o tamanho da campo de fundo, com o comando Cover podemos cobrir a imagem toda
+
+Background-repeat = para controlar cantas vezes um background pode repetir
+
+Background-attachment = é o vinculo do plano de fundo, assim podendo fixar ou deixar ele interagir com o scroll
+
+
+SHORTHAND - BACKGROUD
+
+COLOR - IMAGE - POSITION - REPEAT - [SIZE] - ATTACHMENT
+
+Não tem como centralizar caixas dentro de outras caixas usando o margin, entt nesse caso temos que:
+
+Deixar a caixa principal em relativa ja a segundaria em absolute, nisso colocando as configurações de 50% em left e top no absolute, e logo em seguida transformar ele usando o comando tranform(50% 50%)

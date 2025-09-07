@@ -1,0 +1,16 @@
+S.E.O
+
+O Search Engine Optimization (Otimização de Mecanismo de Pesquisa). Ele é um conjunto de técnicas e estratégias para sites ficarem melhor posicionados nos buscadores. 
+Bom te uma coisa já aprendemos, nós não colocamos o nosso site no Google, mas sim é ele que nos coloca nele. Mas para que isso ocorra, temos que deixar nosso site mais acessível e atrativo possivel.
+
+Alguns requisitos para que isso ocorra são:
+
+* Ter conteúdo bem explicativo e objetivo;
+* Site ser aparentimente atraente;
+
+Mas como o Google nos encontra?
+
+* Índice: O Google armazena todas as páginas da web conhecidas no índice dele. A entrada de índice de cada página descreve o conteúdo e o local de uma página.
+O termo Indexar é quando o Google busca, lê adiciona uma página ao índice.
+
+* Rastreamento: É o processo de procura por páginas da Web novas e atualizadas. Assim ele detecta URLs seguindo links, já vimos como funciona o meio de busca de um site antes, tanto que isso só foi possivel por conta de dois pesquisadores (Bob Kanh e Vint Cerf) assim criando tanto o IP e o TCP (IP: Facilidade na localização de endereços. TCP:O que permite varios dispositivos se conversarem ao mesmo tempo)

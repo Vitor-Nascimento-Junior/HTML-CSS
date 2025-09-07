@@ -1,0 +1,13 @@
+Front-end e Back-end
+
+  O Frond end é focado em fazer serviços para o cliente (client-side) normalmente quando criamos sites fazemos uma URL para joga-lo no servidor, mas seu proposito principal é o cliente não ao servidor em si então questão de deixar o site bem acessivel e bonito, isso seria o Frond end (feito para o cliente).
+
+
+  Pois então para que alguem possa virar um desenvolvedor Frond end ele tem que saber sobre HTML, CSS, JS, Design, Imagens, Fontes, fotoshop e Cores. 
+
+  Já o Back end é focado ao lado do servidor (server-side) focando em como vai ser a interação do codigos dele com o servidor.
+  Então simplificando como funciona um desenvolvedor Back end, ele vai se responsabilizar em fazer analises de dados no banco de dados por exemplo; em um site de camisas o cliente quer comprar uma camiseta em promoção porem só á mais duas disponiveis em estoque. o que vai dar essa informação de que aquela camisa está em promoção e que só tem duas camisa em estoque vai ser a linguagem PhP (por exemplo) que fez uma leitura dos dados mandou o resuldado em HTML puro, e assim mandando pro cliente, Saindo do processo de Back end e indo para o Frond end. (Fron end totalmente focado em cliente e Back end em servidor em coleta e envio de dados).
+
+  Algumas linguagens para se tornar um Back end PhP, JS, C#, Python, Roby e Java. *(Porem JS tem diferença de funcionalidade em Client-side e Server-side)* *(Java e JS não são a mesma coisa)*.
+
+  Porem se quiser ser um desenvolvedor das duas areas Frond end e Back end vai ser full stack.

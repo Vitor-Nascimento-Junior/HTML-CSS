@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>grouping tags</title>
+    <style>
+        body{
+            background-color: dimgrey;
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0px;
+        }
+        header{
+            background-color: white;
+            text-align: center;
+            margin: 0px 10px;
+            border-radius: 3px 3px 0px 0px;
+        }
+        header > h1{
+            margin: 0px auto 5px;
+        }
+        nav{
+            background-color: darkgray;
+            padding-top: 10px;
+            padding-bottom: 5px;
+            margin: 0px;
+        }
+        nav > a{
+            color: red;
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+            text-decoration: none;
+        }
+        nav > a:hover{
+            color: white;
+            background-color: rgba(0, 0, 0, 0.377);
+            padding-bottom: 5px;
+            padding-top: 10px;
+            transition: 0.5s;
+        }
+        nav > a:active{
+            color: black;
+        }
+        main{
+            background-color: white;
+            text-align: justify;
+            padding: 5px;
+            line-height: 1.6em;
+            margin: auto 10px;
+        }
+        section >h1{
+            margin: 0px;
+        }
+        article{
+            background-color: darkcyan;
+            font-weight: bold;
+        }
+        article > h2{
+            margin: 0px;
+            background-image: linear-gradient(to right, cyan, transparent);
+            border-radius: 3px 3px 0px 0px;
+        }
+        article.top{
+            border-radius: 3px 3px 0px 0px;
+        }
+        article.bottom{
+            border-radius:0px 0px 3px 3px;
+        }
+        aside{
+            color: white;
+            background-color: darkgrey;
+            margin: 0px;
+            font-weight: bold;
+            text-align: center;
+        }
+        article > p{
+            padding: 5px;
+        }
+        p{
+            margin: 0px;
+            text-indent: 20px;
+        }
+        footer{
+            background-color: black;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            padding: 4px;
+            box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>CABEÇALHO</h1>
+        <nav>
+            <a href="#">HOME</a> <a href="#">SHOP</a> <a href="#">CHAT</a> 
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Title</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia optio ad, ut numquam commodi minima repudiandae delectus beatae asperiores! Eum nostrum asperiores quam culpa nam dolores doloribus adipisci velit delectus!</p>
+            <article class="top">
+                <h2>Subtitle</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum, reprehenderit optio. Maxime reprehenderit saepe nihil distinctio ipsum deserunt, sunt excepturi ratione facere minima, in autem quaerat possimus voluptatibus, illo ducimus.</p>
+            </article>
+                <aside> feito por Norman D ligth</aside>
+            <article class="bottom">
+                <h2 class="subtitle">Subtitle</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure magni nisi provident. Magnam saepe adipisci accusamus quia iure officia praesentium qui illo, deleniti velit esse quaerat. Reprehenderit libero exercitationem quos!</p>
+            </article>
+        </section>
+    </main>
+    <footer> Site feito por Vitor A Nascimento</footer>
+</body>
+</html>
