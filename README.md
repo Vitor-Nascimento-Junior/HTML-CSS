@@ -27,3 +27,20 @@
 <a href="ATIVIDADES/exercicios/CSS/ex021" target="_self">ATIVIDADE: 21</a>
 <a href="ATIVIDADES/exercicios/CSS/ex022" target="_self">ATIVIDADE: 22</a>
 
+<h2>Desafios</h2>
+
+<a href="ATIVIDADES/desafios/1.0/" target="_self">DESAFIO: 01</a>
+<a href="ATIVIDADES/desafios/1.1/" target="_self">DESAFIO: 02</a>
+<a href="ATIVIDADES/desafios/1.2/" target="_self">DESAFIO: 03</a>
+<a href="ATIVIDADES/desafios/1.3/" target="_self">DESAFIO: 04</a>
+<a href="ATIVIDADES/desafios/1.4/" target="_self">DESAFIO: 05</a>
+<a href="ATIVIDADES/desafios/1.5/" target="_self">DESAFIO: 06</a>
+<a href="ATIVIDADES/desafios/1.6/" target="_self">DESAFIO: 07</a>
+<a href="ATIVIDADES/desafios/1.7/" target="_self">DESAFIO: 08</a>
+<a href="ATIVIDADES/desafios/1.8/" target="_self">DESAFIO: 09</a>
+<a href="ATIVIDADES/desafios/1.9/" target="_self">DESAFIO: 10</a>
+<a href="ATIVIDADES/desafios/border-ex.01/" target="_self">DESAFIO: 11</a>
+
+<h1>História da Internet</h1>
+
+<a href="Historia da internet/" target="_self"></a>
